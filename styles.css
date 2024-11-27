@@ -1,0 +1,25 @@
+.title{
+    width: 100%;
+    border: 2px solid;
+    box-sizing: border-box;
+    border-radius: 20px;
+    padding-bottom: 20px;
+    color: white;
+    text-align: center;
+    border-color: red;
+    font-size: 40px;
+}
+.back{
+    background-color: black;
+}
+.text{
+    color: white;
+    text-align: center;
+    font-size: 25px;
+}
+.button{
+    margin-left: 870px;
+}
+.img{
+    margin-left: 700px;
+}
